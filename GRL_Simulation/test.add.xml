@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<routes>
+    <vType id="human" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" length="5.0" minGap="5" speedDev="0.1" maxSpeed="10" color="1,0,0" guiShape="passenger/sedan">
+        <param key="lane_change_params" value="only_strategic_safe"/>
+        <param key="car_following_params_speed_mode" value="right_of_way"/>
+        <param key="car_following_params_tau" value="1"/>
+        <param key="acceleration_controller" value="IDMController"/>
+        <param key="routing_controller" value="Router"/>
+        <param key="num_vehicles" value="0"/>
+    </vType>
+    <!-- Add other vehicle types or definitions here -->
+</routes>
+

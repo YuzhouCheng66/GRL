@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Luxembourg SUMO Traffic (LuST) Scenario
+This project is licensed under the terms of the MIT license.
+Author: Lara CODECA [codeca@gmail.com]
+-->
+
+<routes>
+   <vehicle id="h6486c1:1" type="passenger1" depart="35618.00" departPos="random" departSpeed="0.00" arrivalPos="random" arrivalSpeed="0.00">
+        <route edges="highway_0"/>
+    </vehicle>
+</routes>
+
