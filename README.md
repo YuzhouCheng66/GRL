@@ -34,7 +34,7 @@ Before compiling the code of our framework,
 you need to install the following 
 development environment:
 - Ubuntu 20.04 with latest GPU driver
-- Pycharm
+- JupyterNotebook
 - Anaconda
 - CUDA 11.1
 - cudnn-11.1, 8.0.5.39
