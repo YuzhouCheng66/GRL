@@ -34,7 +34,7 @@ Before compiling the code of our framework,
 you need to install the following 
 development environment:
 - Ubuntu 20.04 with latest GPU driver
-- JupyterNotebook
+- Jupyter Notebook
 - Anaconda
 - CUDA 11.1
 - cudnn-11.1, 8.0.5.39
@@ -240,7 +240,7 @@ the training and testing results.
 GRL model when the training process ends.
 
 ## Tutorial
-You can simply open "main.ipython" in Jupyter-Notebook to 
+You can simply open "main.ipython" in Jupyter Notebook to 
 simulate the GRL algorithm, and observe the 
 simulation process in SUMO platform. You can
 generate training plot such as Reward curve:
