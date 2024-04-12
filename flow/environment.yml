@@ -1,4 +1,4 @@
-name: TorchGRL
+name: GRL
 
 dependencies:
     - python==3.7.3
