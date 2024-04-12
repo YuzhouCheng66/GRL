@@ -233,7 +233,7 @@ GRL model when the training process ends.
 You can simply open "main.ipython" in Jupyter Notebook to 
 simulate the GRL algorithm, and observe the 
 simulation process in SUMO platform. You can
-generate training plot such as Reward curve:
+generate training plot such as Reward curve.
 
 ### Verification of other algorithms
 If you want to verify other algorithms, 
