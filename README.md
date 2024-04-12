@@ -88,16 +88,6 @@ Install via pip:
 pip install eclipse-sumo
 ```
 
-Setting in Pycharm:
-
-In order to adopt SUMO correctly, 
-you need to define the environment variable 
-of SUMO_HOME in Pycharm. 
-The specific directory is:
-```
-/home/…/.conda/envs/GRL/lib/python3.7/site-packages/sumo
-```
-
 Setting in Ubuntu:
 
 At first, run:
